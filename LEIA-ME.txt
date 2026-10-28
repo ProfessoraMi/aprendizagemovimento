@@ -1,0 +1,8 @@
+APRENDER JÁ — QUIZ 3º ANO
+
+Copie 3ano.html, quiz-3ano.css, quiz-3ano.js e questoes-3ano.js para a mesma pasta do index.html.
+Abra 3ano.html no navegador. O botão 3º Ano do index deve apontar para 3ano.html.
+
+60 questões autorais de revisão: 20 por volume, sendo 10 de Português e 10 de Matemática.
+Bônus: 12 questões sorteadas, 20 segundos por pergunta e 3 vidas.
+Não é necessário servidor ou internet para a lógica do jogo (a fonte online é opcional).
